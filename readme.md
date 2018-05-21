@@ -26,7 +26,7 @@ Use any image name you want in place of **netcorewebapi**.
 Use any container name you desire in place of **netcorewebapi_sample**.
 
 
-3. [Make a request](http://localhost:5001/api/values) to the API in your browser.
+3. Make a request, e.g. <http://localhost:5001/api/values> to the API in your browser.
 
 The URL will differ if you used a different host port other than 5001.
 
